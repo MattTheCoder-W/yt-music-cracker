@@ -9,7 +9,7 @@
 
 Or if you don't want to use *interactive* interface type:
 
-> python main.py -p <playlist-link> -f <file-format> -a <artist> -t <album-title> [-c <cover-file-or-link>] [-s <phrase-to-skip-while-renaming-files>]
+> python main.py -p [playlist-link] -f [file-format] -a [artist] -t [album-title] [-c [cover-file-or-link]] [-s [phrase-to-skip-while-renaming-files]]
 
 More info is available in *--help* option
 
