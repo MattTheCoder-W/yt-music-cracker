@@ -15,5 +15,5 @@ More info is available in *--help* option
 
 ###Only 2 formats are supported: FLAC and MP3
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+<img src="https://raw.githubusercontent.com/MattTheCoder-W/yt-music-cracker/main/images/image.png">
+<img src="https://raw.githubusercontent.com/MattTheCoder-W/yt-music-cracker/main/images/img2.png">
