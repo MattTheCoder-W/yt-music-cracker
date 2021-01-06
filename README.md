@@ -3,7 +3,7 @@
 
 <p>To use this tool, just simply type:</p>
 
-> pip install requirements.txt
+> pip install -r requirements.txt
 
 > python main.py -i
 
